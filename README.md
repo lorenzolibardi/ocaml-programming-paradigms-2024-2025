@@ -45,6 +45,7 @@ Programming Paradigms is a course at **Università di Pisa** focused on differen
 - Lists and Functional Data Structures
 - Higher-Order Functions
 - Type Inference and Polymorphism
+
 This repository serves as a collection of solutions and notes to help reinforce these concepts.
 
 ## License
